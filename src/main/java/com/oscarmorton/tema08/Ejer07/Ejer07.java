@@ -1,6 +1,5 @@
 package com.oscarmorton.tema08.Ejer07;
 
-import com.oscarmorton.tema08.Lib;
 
 import java.util.Scanner;
 
